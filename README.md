@@ -6,5 +6,17 @@ This is a General Knowledge Quiz made by using C++ basic fundamentals.
 
 
 
+# Display of ending of the quiz game.
 ![Endgame](https://user-images.githubusercontent.com/91106038/208830669-31e8c243-968f-48de-960a-58ace714a0ed.png)
-Display of ending of the quiz game.
+
+# How to Play???
+-->There are total 4 options for every question
+-->select the option from 1-4 of your choice 
+-->press 0 and enter to skip the question
+-->result will show the 
+   +Total Questions
+   +Correct Questions
+   +Incorrect Questions
+   +Skipped Questions
+
+Have fun playing!
