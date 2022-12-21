@@ -20,3 +20,4 @@ This is a General Knowledge Quiz made by using C++ basic fundamentals.
    +Skipped Questions
 
 Have fun playing!
+
